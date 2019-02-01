@@ -1,0 +1,2 @@
+# Multi-Linear-Regression-Model
+> Business challenge is : there are 50 companies and have income report  How much amount comapny has spend on various sectors and what was profit of the company in finanncial year Analyse 50 companies dataset and create model that which type of comapnies it is most intersted in investing depends on Profit create model which indicates where company has spend more on any sector to create more profit So which of yields present better result in terms of lot of Profit. It will better tells investors where (in which sector) exactly to invest.
